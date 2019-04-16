@@ -1,0 +1,32 @@
+[
+    {
+        "Id":1,
+        "Name":"Nguyen van a",
+        "Tell":"0123243545",
+        "Premisson":1
+    },
+    {
+         "Id":2,
+         "Name":"Nguyen van b",
+         "Tell":"85450606567",
+         "Premisson":2
+    },
+    {
+        "Id":3,
+        "Name":"Nguyen van c",
+        "Tell":"85450606567",
+        "Premisson":1
+   },
+   {
+    "Id":4,
+    "Name":"Nguyen van d",
+    "Tell":"85450606567",
+    "Premisson":3
+    },
+    {
+        "Id":5,
+        "Name":"Nguyen van k",
+        "Tell":"85450606567",
+        "Premisson":2
+   }
+]
